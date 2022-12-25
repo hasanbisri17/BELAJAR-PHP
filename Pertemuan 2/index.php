@@ -48,6 +48,11 @@
     // Operator perbandingan untuk mengecek data sesuai identitas/type data
     // var_dump(1 === "5");
 
+    //Logika
+    //ada beberapa macam oprator Logika seperti ( &&, ||, ! )
+    // Operator logika digunakan untuk pengkondisian
+    $x = 30;
+    var_dump($x < 20 || $x % 2 == 0);
 
     
 ?>
