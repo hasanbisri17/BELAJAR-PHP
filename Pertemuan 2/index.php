@@ -38,6 +38,12 @@
     // $nama .= "Bisri";
     // echo $nama;
 
+    //Perbandingan
+    //ada beberapa macam oprator Perbandingan seperti ( <, >, <=, >=, == )
+    // Operator perbandingan hanya untuk mengecek perbandingan tanpa melihat type data
+    // var_dump(1 < 5);
+
+    
 
 
     
