@@ -6,9 +6,31 @@
     //print_r
     //var_dump
     echo "Mohamad Hasan Bisri <br>";
-    echo true;
 
     //penulisan sintaks PHP 
+    // Variable dan Type Data
+    // Aturan pembuatan variable tidak boleh di awali dengan angka tapi boleh mengandung angka
+    $nama = "Hasan Bisri";
+
+    echo "Hallo nama saya adalah $nama <br>";
+
+    //Operator
+    //Operator Aritmatika
+    // ada beberapa macam oprator seperti ( + - * / % )
+    // $x = 20;
+    // $y = 30;
+    // echo $x * $y;
+
+    //Penggabung string / concatetanion / concat
+    // penghubungnya adalah tanda titik (.)
+    $nama_depan = "Mohamad";
+    $nama_tenggah = "Hasan";
+    $nama_akhir = "Bisri";
+
+    echo $nama_depan . " " . $nama_tenggah . " " . $nama_akhir;
+
+
+
     
 ?>
 
@@ -21,7 +43,7 @@
     <title>Belajar PHP</title>
 </head>
 <body>
-    <h1>Hallo, nama saya <?php echo "Mohamad Hasan Bisri"; ?></h1>
+    <h1>Hallo, nama saya <?php echo $nama; ?></h1>
     <?php 
         echo "h1>Hallo, nama saya Mohamad Hasan Bisri</h1>";
     ?>
