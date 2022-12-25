@@ -39,11 +39,14 @@
     // echo $nama;
 
     //Perbandingan
-    //ada beberapa macam oprator Perbandingan seperti ( <, >, <=, >=, == )
+    //ada beberapa macam oprator Perbandingan seperti ( <, >, <=, >=, ==, != )
     // Operator perbandingan hanya untuk mengecek perbandingan tanpa melihat type data
     // var_dump(1 < 5);
 
-    
+    //identitas
+    //ada beberapa macam oprator Identitas seperti ( ===, !== )
+    // Operator perbandingan untuk mengecek data sesuai identitas/type data
+    // var_dump(1 === "5");
 
 
     
