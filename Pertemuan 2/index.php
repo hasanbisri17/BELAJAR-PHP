@@ -23,11 +23,20 @@
 
     //Penggabung string / concatetanion / concat
     // penghubungnya adalah tanda titik (.)
-    $nama_depan = "Mohamad";
-    $nama_tenggah = "Hasan";
-    $nama_akhir = "Bisri";
+    // $nama_depan = "Mohamad";
+    // $nama_tenggah = "Hasan";
+    // $nama_akhir = "Bisri";
 
-    echo $nama_depan . " " . $nama_tenggah . " " . $nama_akhir;
+    // echo $nama_depan . " " . $nama_tenggah . " " . $nama_akhir;
+
+    // Assigment
+    //ada beberapa macam oprator Assigment seperti ( =, +=, -=, *=, /=, %= )
+    // $nama = "Mohamad";
+    // $nama .= " ";
+    // $nama .= "Hasan";
+    // $nama .= " ";
+    // $nama .= "Bisri";
+    // echo $nama;
 
 
 
