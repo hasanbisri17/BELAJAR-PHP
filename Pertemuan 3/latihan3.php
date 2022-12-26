@@ -7,10 +7,16 @@
 // switch
 
 //Percabangan menggunakan if
-$x = 30;
-if( $x < 20 ){
-    echo "benar";
+$x = 20;
+if( $x < 20 ) {
+    echo "Benar";
+} elseif ( $x == 20 ) {
+    echo "Tepat";
 }
+else {
+    echo "Salah";
+}
+
 
 
 
