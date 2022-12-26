@@ -11,7 +11,7 @@
         <?php for( $i = 1; $i <= 3; $i++ ) :  ?>
             <tr>
                 <?php for( $j = 1; $j <= 5; $j++ ) : ?>
-                    <td><?php echo "$i, $j"; ?></td>
+                    <td><?= "$i, $j"; ?></td>
                 <?php endfor; ?>
             </tr>
         
