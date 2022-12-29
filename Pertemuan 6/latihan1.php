@@ -18,7 +18,6 @@
         "suplayer" => "Ardi Jaya"
         ],
     ];
-
 ?>
 
 <!DOCTYPE html>
